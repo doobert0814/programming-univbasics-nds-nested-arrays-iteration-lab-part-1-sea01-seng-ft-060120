@@ -3,5 +3,5 @@ def find_even_values(src)
  count = 0 
  
  while count < find_even_values.length do
-   puts array_1
+   puts find_even_values
 end
